@@ -2,8 +2,8 @@
 
 Parallel and Distributed Computing Project
 
-main.cpp
-contains serial and parallel implementation using OpenMP of:
+open_mp_main.cpp
+Contains serial and parallel implementation using OpenMP of:
 - Matrix Multiplication
 - Matrix Addition
 - Matrix Subtraction
